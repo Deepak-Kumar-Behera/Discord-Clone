@@ -1,0 +1,42 @@
+bg-[#404EED]
+fontawesome script - <script src="https://kit.fontawesome.com/58a810656e.js" crossorigin="anonymous"></script>
+
+NavBar
+Open Discord - button visible on xl otherwise hidden ✅
+Hamburger - hidden on xl otherwise visible ✅
+Hamburger - <i class="fa-solid fa-bars"></i> ✍
+
+Hero Section
+Both side images - visible on lg otherwise hidden ✅
+Download for Window - button visible on lg otherwise hidden ✅
+Open Discord in your browser - button visible on sm otherwise hidden ✅
+<i class="fa-solid fa-download"></i> ✍
+Download from Google Play - button hidden on lg otherwise visible ✅
+<i class="fa-brands fa-google-play"></i>  ✍
+
+
+
+Problems - 
+NavBar
+1. cursor-pointer not working in NavBar ✅
+
+Hero Section
+1. Background cloud image is not positioned properly
+2. min-h-[542px]
+
+Feature Section
+1. image non-flexible in feature 1 section ✅
+2. flex-column in md screen ✅
+
+CTA Section 
+1. heading and p is text-center:none, font-size reduced in md screen ✅
+
+Download Section
+1. text-center:none in sm screen ✅
+2. hide present download button and show download from google play button ✅
+
+Footer
+1. Dropdown img not showing
+2. Give width percentage to footer ✅
+3. flex-col in top part ✅
+4. flex-wrap in 4 column ✅
